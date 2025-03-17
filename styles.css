@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #FFB6C1;
+    overflow: hidden;
+}
+
+h1 {
+    color: #b6808f;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #ff4081;
+    color: white;
+    width: 150px;
+    height: 50px;
+}
+
+img {
+    position: absolute;
+    width: 120px;
+    height: auto;
+}
